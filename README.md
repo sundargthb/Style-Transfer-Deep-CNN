@@ -1,5 +1,5 @@
 # Style-Transfer-Deep-CNN
-Apply Style transfer on profile picture. 
+Apply Style transfer on my profile picture. 
 
 #1 Load VGG19 features. 
 
